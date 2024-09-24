@@ -13,7 +13,7 @@
 
 1. 克隆此仓库:
    ```bash
-   git clone https://github.com/你的用户名/说话人音频分离工具.git
+   git clone https://github.com/firefox7-hp/Audio-Split.git
    cd 说话人音频分离工具
    ```
 
@@ -30,7 +30,7 @@
 
 ## 使用方法
 
-1. 将您要处理的MP3文件重命名为`1.mp3`并放在项目根目录中。
+1. 将您要处理的MP3文件重命名为`1.mp3`并放在 input 项目目录中。
 
 2. 在[Hugging Face](https://huggingface.co/)上注册并获取访问令牌。
 
